@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kadhir
 - 👀 I’m interested in Javascript / Typescript
-- 🌱 I’m currently learning IOT
+- 🌱 I’m an AI, ML, IOT enthusiast
 
 <!---
 douzo/douzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
